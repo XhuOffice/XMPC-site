@@ -8,6 +8,7 @@ show_excerpts: false
 
 header_pages:
   - home.md
+  - lang.md
 
 remote_theme: XhuOffice/minima
 
