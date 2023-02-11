@@ -1,0 +1,16 @@
+title: XMPC
+
+author:
+  name: XhuOffice
+  email: xhuoffice@xhuoffice.tk
+description: "Xhu Minecraft: Java Edition PvP Competition"
+show_excerpts: false 
+
+header_pages:
+ - README.md
+
+remote_theme: XhuOffice/minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
