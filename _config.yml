@@ -7,7 +7,7 @@ description: "Xhu Minecraft: Java Edition PvP Competition"
 show_excerpts: false 
 
 header_pages:
-  - 
+  - home.md
 
 remote_theme: XhuOffice/minima
 
