@@ -6,5 +6,5 @@ permalink: /lang/
 
 - Here you can switch the language of the website.
 
-    [English](/)
+    [English](/)  
     [中文](/zh/)
